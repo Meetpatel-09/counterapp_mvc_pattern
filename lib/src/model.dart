@@ -1,0 +1,1 @@
+export 'package:counterapp_mvc_pattern/src/home/model/model.dart';
